@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Circuit of Ireland Rally]]></title>
         <description><![CDATA[Circuit of Ireland Rally]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/circuit-of-ireland-rally/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 21:39:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jan 2016 21:40:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/circuit-of-ireland-rally/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f833d51-3787-4533-89df-e37343e31abe.jpg">]]></description>
+            <link>https://thegrid.ai/circuit-of-ireland-rally/74184ebb-5002-4daa-9471-3a04c38ecb30/index.html</link>
+            <guid isPermaLink="false">74184ebb-5002-4daa-9471-3a04c38ecb30</guid>
+            <pubDate>Fri, 08 Jan 2016 21:40:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SPECTATE]]></title>
             <description><![CDATA[<article><h1>SPECTATE</h1><p>The Circuit of Ireland Rally will once again be part of the prestigious FIA European Rally Championship in 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ec9d64915da2913c3dab2063848f8c1bd9eebb1.jpg"></article>]]></description>
-            <link>undefined00e35a0b-7d62-4690-a1a8-caa4dcc886be/index.html</link>
+            <link>https://thegrid.ai/circuit-of-ireland-rally/00e35a0b-7d62-4690-a1a8-caa4dcc886be/index.html</link>
             <guid isPermaLink="false">00e35a0b-7d62-4690-a1a8-caa4dcc886be</guid>
             <pubDate>Fri, 08 Jan 2016 21:39:10 GMT</pubDate>
         </item>
